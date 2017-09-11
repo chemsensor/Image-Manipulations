@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\cantrell\AndroidStudioProjects\image-manipulations\openCVLibrary320\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="966bdd8e985471a5c38684e2e78a1953938e00b5">
+        <dex dex="C:\Users\cantrell\AndroidStudioProjects\image-manipulations\openCVSampleimagemanipulations\build\intermediates\pre-dexed\debug\classes_978eadad948686da1e0c4385c672e49d112c619b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cantrell\AndroidStudioProjects\image-manipulations\openCVSampleimagemanipulations\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ac3efe7618189eb6aaff5e6062ceca0013c00539">
+        <dex dex="C:\Users\cantrell\AndroidStudioProjects\image-manipulations\openCVSampleimagemanipulations\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a0caba3d643165bb1d1b337264a9417cc21cefa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cantrell\AndroidStudioProjects\image-manipulations\openCVSampleimagemanipulations\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\cantrell\AndroidStudioProjects\image-manipulations\openCVSampleimagemanipulations\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5cecdb1dbbe5828fc719e6a1377993c2efcc306c\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Jul 29 17:08:45 PDT 2017
+1.base=C\:\\Users\\cantrell\\AndroidStudioProjects\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\cantrell\\AndroidStudioProjects\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.base=C\:\\Users\\cantrell\\AndroidStudioProjects\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\cantrell\\AndroidStudioProjects\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+count=4
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\cantrell\\AndroidStudioProjects\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\cantrell\\AndroidStudioProjects\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\cantrell\\AndroidStudioProjects\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=C\:\\Users\\cantrell\\AndroidStudioProjects\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\image_manipulations_surface_view.xml

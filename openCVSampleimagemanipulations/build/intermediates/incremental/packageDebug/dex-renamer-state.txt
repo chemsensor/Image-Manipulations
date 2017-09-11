@@ -1,0 +1,7 @@
+#Thu Aug 31 14:41:59 PDT 2017
+base.0=C\:\\Users\\cantrell\\AndroidStudioProjects\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a0caba3d643165bb1d1b337264a9417cc21cefa1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\cantrell\\AndroidStudioProjects\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5cecdb1dbbe5828fc719e6a1377993c2efcc306c\\classes.dex
+base.1=C\:\\Users\\cantrell\\AndroidStudioProjects\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5cecdb1dbbe5828fc719e6a1377993c2efcc306c
+file.0=C\:\\Users\\cantrell\\AndroidStudioProjects\\image-manipulations\\openCVSampleimagemanipulations\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a0caba3d643165bb1d1b337264a9417cc21cefa1\\classes.dex
